@@ -2,7 +2,6 @@
 title: "Hello, World!"
 published: true
 ---
-
 Hello, world! Welcome to the blog, where I'll document what I'm working on, or
 just whatever's on my mind. If you want some more off-the-cuff commentary,
 better humour, or just more of me (I can't imagine why), [my Twitter page](https://twitter.com/lukeshorejones) is the

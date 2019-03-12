@@ -7,7 +7,7 @@
 <img src="{{ user.avatar_url }}" class="circle mb-3" style="max-width: 150px;">
 <h1 class="{% if site.style == 'dark' %}text-white{% endif %} mb-2 lh-condensed">{% if user.name %}{{ user.name }}{% else %}{{ user.login }}{% endif %}</h1>
 <p class="mb-3 f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
-  {{ user.bio }}
+  Computer Science student at UoL
 </p>
 
 {% if include.metadata %}
@@ -52,3 +52,11 @@
     {% endif %}
   </div>
 {% endif %}
+
+<h1 class="{% if site.style == 'dark' %}text-white{% endif %} mb-2 lh-condensed">Navigation</h1>
+<nav class="mb-3 f4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
+  <a href="/">Home</a><br>
+  <a href="/about/">About Me</a><br>
+  <a href="/projects/">Projects</a><br>
+  <a href="/blog/">Blog</a><br>
+</nav>
