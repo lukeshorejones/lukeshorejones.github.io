@@ -1,5 +1,5 @@
 ---
-title: "Hello, World!"
+title: "First Steps"
 published: true
 ---
 I'm back! It's been a day, and the website is looking a lot more fleshed out.
