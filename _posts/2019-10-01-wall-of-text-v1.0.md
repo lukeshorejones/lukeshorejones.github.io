@@ -5,7 +5,7 @@ published: true
 Coming back to university for my second year of study, I decided to warm
 up by revivng an old project I couldn't quite get working a few years ago.
 The Wall of Text is inspired by the [Library of Babel](https://libraryofbabel.info)
-- its essentially just a simpler version of the same thing.
+\- its essentially just a simpler version of the same thing.
 
 The idea behind the Wall of Text is simple. Its a long paragraph, made up
 of lots of lines of text. Each line is 140 characters long, and the Wall
