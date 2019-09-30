@@ -2,16 +2,16 @@
 layout: default
 title: About Me
 ---
-Hi! I'm a first year Computer Science student at the University of Liverpool.
+Hi! I'm a second year Computer Science student at the University of Liverpool.
 
 I'm interested in pure and discrete mathematics, statistics and software
-development. To this end, I work on a number of projects in my free time,
+development. I work on a number of projects in my free time,
 ranging from visual sorting algorithms to a neural network written from scratch.
 All of my projects can be seen from the Projects page accessible on the sidebar.
 
-I have also made games, such as this tactical roleplaying game - these games are
-often inspired by games I enjoy playing in my free time. In particular, I enjoy
-playing online games where I can work with groups of people.
+I have also made games, such as a tactical roleplaying game you can find on this
+site - these games are often inspired by games I enjoy playing in my free time. 
+In particular, I enjoy playing online games where I can work with groups of people.
 
 My favourite programming language is Python, but I also have experience in Java,
 SQL, and Haskell. I am also familiar with HTML and CSS.
