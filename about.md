@@ -23,7 +23,7 @@ A* in maths and A grades in English language and literature.
 During my A-Levels, I earned a Distinction* in ICT, an A in maths and physics,
 and a C in further maths.
 
-In my first semester of university, I achieved an overall mark of 92%.
+In my first semester of university, I achieved an overall mark of 88%.
 
 In 2016 I did work experience at Lowri Beck Systems, which was very useful, as
 it showed me a variety of potential career paths.
