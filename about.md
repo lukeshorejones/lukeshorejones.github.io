@@ -15,11 +15,3 @@ In particular, I enjoy playing online games where I can work with groups of peop
 
 My favourite programming language is Python, but I also have experience in Java,
 SQL, and Haskell. I am also familiar with HTML and CSS.
-
-My GCSEs (2011-2016) and my A-Levels (2016-2018) were earned at West Derby
-School. During my GCSEs, I earned 3 A* grades and 6 A grades, including an
-A* in Maths and A grades in English Language and Literature.
-
-During my A-Levels, I earned a Distinction* in ICT, an A in Maths and Physics,
-and a C in Further Maths.
-
