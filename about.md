@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 ---
-Hi! I'm a data scientist and Computer Science graduate at the University of
+Hi! I'm a data scientist and Computer Science graduate from the University of
 Liverpool, as well as a co-founder of the UoL Game Developers Society.
 
 I'm also interested in mathematics, statistics, and software development. I work
